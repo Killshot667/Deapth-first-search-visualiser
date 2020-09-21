@@ -9,7 +9,7 @@ pygame.init()
 
 WIDTH = 800
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
-pygame.display.set_caption('Breadth first search visuliser')
+pygame.display.set_caption('Deapth first search visuliser')
 
 RED = (255, 0, 0)
 SKY_BLUE = (135, 206, 235)
